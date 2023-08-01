@@ -1,4 +1,4 @@
-# The-Algorithm-of-Epilepsy-JS
+# The Algorithm of Epilepsy JS
 Javascript version of Mauro Pinto's _The Algorithm of Epilepsy_
 
 ## Overview
